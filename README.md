@@ -4,3 +4,4 @@ This is a DevOps training project.
 # Docker notes
 # Kubernetes notes
 # CI notes
+# Monitoring notes
