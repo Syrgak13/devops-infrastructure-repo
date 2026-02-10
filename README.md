@@ -3,3 +3,4 @@ This is a DevOps training project.
 # Terraform notes
 # Docker notes
 # Kubernetes notes
+# CI notes
