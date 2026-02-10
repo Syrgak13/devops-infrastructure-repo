@@ -3,3 +3,6 @@
 *.tfstate.*
 *.log
 .DS_Store
+
+
+.github/workflows/*
